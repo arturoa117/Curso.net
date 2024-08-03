@@ -1,0 +1,14 @@
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\bin\Debug\net8.0\Practica 1-1.exe
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\bin\Debug\net8.0\Practica 1-1.deps.json
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\bin\Debug\net8.0\Practica 1-1.runtimeconfig.json
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\bin\Debug\net8.0\Practica 1-1.dll
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\bin\Debug\net8.0\Practica 1-1.pdb
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.AssemblyInfoInputs.cache
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.AssemblyInfo.cs
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.csproj.CoreCompileInputs.cache
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.dll
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\refint\Practica 1-1.dll
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.pdb
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\Practica 1-1.genruntimeconfig.cache
+C:\Users\Burocracia Cero\source\repos\Practica 1-1\Practica 1-1\obj\Debug\net8.0\ref\Practica 1-1.dll
